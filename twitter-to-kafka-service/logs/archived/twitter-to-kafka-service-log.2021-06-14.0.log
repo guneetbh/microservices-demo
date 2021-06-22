@@ -1,0 +1,56 @@
+2021-06-14 02:16:38 [main] INFO  c.m.d.t.t.k.s.TwitterToKafkaServiceApplication - Starting TwitterToKafkaServiceApplication using Java 11.0.11 on LAPTOP-7BHP3E3O with PID 26072 (C:\Users\GuneetBhatia\IntelliJ_Workspace\microservices-demo\twitter-to-kafka-service\target\classes started by 000V4T744 in C:\Users\GuneetBhatia\IntelliJ_Workspace\microservices-demo)
+2021-06-14 02:16:38 [main] INFO  c.m.d.t.t.k.s.TwitterToKafkaServiceApplication - No active profile set, falling back to default profiles: default
+2021-06-14 02:16:43 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+2021-06-14 02:16:43 [main] INFO  o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+2021-06-14 02:16:43 [main] INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+2021-06-14 02:16:43 [main] INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.46]
+2021-06-14 02:16:43 [main] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2021-06-14 02:16:43 [main] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 4686 ms
+2021-06-14 02:16:44 [main] INFO  o.a.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"]
+2021-06-14 02:16:44 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path ''
+2021-06-14 02:16:44 [main] INFO  c.m.d.t.t.k.s.TwitterToKafkaServiceApplication - Started TwitterToKafkaServiceApplication in 6.691 seconds (JVM running for 8.46)
+2021-06-14 02:16:44 [main] INFO  c.m.d.t.t.k.s.TwitterToKafkaServiceApplication - App starts.....
+2021-06-14 02:16:44 [main] INFO  c.m.d.t.t.k.s.TwitterToKafkaServiceApplication - [Java, Microservices, Kafka, Elasticsearch]
+2021-06-14 02:17:22 [main] INFO  c.m.d.t.t.k.s.TwitterToKafkaServiceApplication - Starting TwitterToKafkaServiceApplication using Java 11.0.11 on LAPTOP-7BHP3E3O with PID 25020 (C:\Users\GuneetBhatia\IntelliJ_Workspace\microservices-demo\twitter-to-kafka-service\target\classes started by 000V4T744 in C:\Users\GuneetBhatia\IntelliJ_Workspace\microservices-demo)
+2021-06-14 02:17:22 [main] INFO  c.m.d.t.t.k.s.TwitterToKafkaServiceApplication - No active profile set, falling back to default profiles: default
+2021-06-14 02:17:24 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+2021-06-14 02:17:24 [main] INFO  o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+2021-06-14 02:17:24 [main] INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+2021-06-14 02:17:24 [main] INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.46]
+2021-06-14 02:17:25 [main] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2021-06-14 02:17:25 [main] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 2799 ms
+2021-06-14 02:17:26 [main] INFO  o.a.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"]
+2021-06-14 02:17:26 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path ''
+2021-06-14 02:17:26 [main] INFO  c.m.d.t.t.k.s.TwitterToKafkaServiceApplication - Started TwitterToKafkaServiceApplication in 4.615 seconds (JVM running for 5.469)
+2021-06-14 02:17:26 [main] INFO  c.m.d.t.t.k.s.TwitterToKafkaServiceApplication - App starts.....
+2021-06-14 02:17:26 [main] INFO  c.m.d.t.t.k.s.TwitterToKafkaServiceApplication - [Java, Microservices, Kafka, Elasticsearch, Guneet]
+2021-06-14 02:20:02 [main] INFO  c.m.d.t.t.k.s.TwitterToKafkaServiceApplication - Starting TwitterToKafkaServiceApplication using Java 11.0.11 on LAPTOP-7BHP3E3O with PID 21236 (C:\Users\GuneetBhatia\IntelliJ_Workspace\microservices-demo\twitter-to-kafka-service\target\classes started by 000V4T744 in C:\Users\GuneetBhatia\IntelliJ_Workspace\microservices-demo)
+2021-06-14 02:20:02 [main] INFO  c.m.d.t.t.k.s.TwitterToKafkaServiceApplication - No active profile set, falling back to default profiles: default
+2021-06-14 02:20:04 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+2021-06-14 02:20:04 [main] INFO  o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+2021-06-14 02:20:04 [main] INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+2021-06-14 02:20:04 [main] INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.46]
+2021-06-14 02:20:04 [main] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2021-06-14 02:20:04 [main] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 1767 ms
+2021-06-14 02:20:04 [main] INFO  o.a.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"]
+2021-06-14 02:20:04 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path ''
+2021-06-14 02:20:04 [main] INFO  c.m.d.t.t.k.s.TwitterToKafkaServiceApplication - Started TwitterToKafkaServiceApplication in 3.024 seconds (JVM running for 3.745)
+2021-06-14 02:20:04 [main] INFO  c.m.d.t.t.k.s.TwitterToKafkaServiceApplication - App starts.....
+2021-06-14 02:20:04 [main] INFO  c.m.d.t.t.k.s.TwitterToKafkaServiceApplication - [Java, Microservices, Kafka, Elasticsearch]
+2021-06-14 02:21:26 [main] INFO  c.m.d.t.t.k.s.TwitterToKafkaServiceApplication - Starting TwitterToKafkaServiceApplication using Java 11.0.11 on LAPTOP-7BHP3E3O with PID 28396 (C:\Users\GuneetBhatia\IntelliJ_Workspace\microservices-demo\twitter-to-kafka-service\target\classes started by 000V4T744 in C:\Users\GuneetBhatia\IntelliJ_Workspace\microservices-demo)
+2021-06-14 02:21:26 [main] INFO  c.m.d.t.t.k.s.TwitterToKafkaServiceApplication - No active profile set, falling back to default profiles: default
+2021-06-14 02:21:28 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+2021-06-14 02:21:28 [main] INFO  o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+2021-06-14 02:21:28 [main] INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+2021-06-14 02:21:28 [main] INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.46]
+2021-06-14 02:21:28 [main] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2021-06-14 02:21:28 [main] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 1875 ms
+2021-06-14 02:21:29 [main] INFO  o.a.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"]
+2021-06-14 02:21:29 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path ''
+2021-06-14 02:21:29 [main] INFO  c.m.d.t.t.k.s.TwitterToKafkaServiceApplication - Started TwitterToKafkaServiceApplication in 3.057 seconds (JVM running for 3.768)
+2021-06-14 02:21:29 [main] INFO  c.m.d.t.t.k.s.TwitterToKafkaServiceApplication - App starts.....
+2021-06-14 02:21:29 [main] INFO  c.m.d.t.t.k.s.TwitterToKafkaServiceApplication - [Java, Microservices, Kafka, Elasticsearch]
+2021-06-14 02:21:29 [main] INFO  c.m.d.t.t.k.s.TwitterToKafkaServiceApplication - Hello microservices!
+2021-06-14 18:29:45 [http-nio-8080-exec-1] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2021-06-14 18:29:45 [http-nio-8080-exec-1] INFO  o.s.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2021-06-14 18:29:45 [http-nio-8080-exec-1] INFO  o.s.web.servlet.DispatcherServlet - Completed initialization in 97 ms
