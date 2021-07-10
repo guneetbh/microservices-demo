@@ -16,3 +16,4 @@ while [[ ! $curlResult == "200" ]]; do
 done
 
 ./cnb/lifecycle/launcher
+check-keycloak-server-started.sh
