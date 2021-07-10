@@ -10,8 +10,11 @@ import java.util.List;
 @Configuration
 @ConfigurationProperties(prefix = "elastic-query-web-client")
 public class ElasticQueryWebClientConfigData {
+
     private WebClient webClient;
+
     private Query queryByText;
+
     @Data
     public static class WebClient {
         private Integer connectTimeoutMs;
