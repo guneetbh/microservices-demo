@@ -3,6 +3,7 @@ services:
   keycloak-authorization-server:
     image: quay.io/keycloak/keycloak:${KEYCLOAK_VERSION:-latest}
     hostname: keycloak-server
+    container_name: keycloak-authorization-server
     ports:
       - "9091:9091"
     environment:

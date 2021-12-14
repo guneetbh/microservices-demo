@@ -21,6 +21,7 @@ import reactor.netty.tcp.TcpClient;
 import java.util.concurrent.TimeUnit;
 
 @Configuration
+//Removed  in favour of eureka client load balancer
 @LoadBalancerClient(name = "elastic-query-service", configuration = ElasticQueryServiceInstanceListSupplierConfig.class)
 public class WebClientConfig {
 

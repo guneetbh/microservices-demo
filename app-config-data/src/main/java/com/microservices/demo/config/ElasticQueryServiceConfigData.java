@@ -14,6 +14,7 @@ public class ElasticQueryServiceConfigData {
     //Added webclient properties to access analytics service as a client
     private WebClient webClient;
     private Query queryFromKafkaStateStore;
+    private Query QueryFromAnalyticsDatabase;
 
     @Data
     public static class WebClient {

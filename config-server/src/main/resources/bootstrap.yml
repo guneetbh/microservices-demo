@@ -5,7 +5,7 @@ spring:
     config:
       server:
         git:
-         # uri: C:/Users/GuneetBhatia/IntelliJ_Workspace/microservices-demo/config-server-repository
+
           uri: https://github.com/guneetbh/spring-cloud-config-server-repository
           default-label: main
           username: guneetbh
